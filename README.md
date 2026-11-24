@@ -89,7 +89,7 @@ Les objets qui n'existent pas dans ta version sont retirés de la boutique autom
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
 - **[SnkClans](https://github.com/SnkStudio/SnkClans)** : réduction de clan à la boutique, et une part de la taxe va à la banque du clan
-- **SnkMetiers** : plus d'annonces à l'hôtel des ventes selon le niveau
+- **[SnkMetiers](https://github.com/SnkStudio/SnkMetiers)** : plus d'annonces à l'hôtel des ventes selon le niveau
 - **[SnkGemmes](https://github.com/SnkStudio/SnkGemmes)** : la houe en saphir vend les récoltes toute seule, au prix de la boutique
 
 ---

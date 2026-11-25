@@ -88,6 +88,7 @@ Les menus ont leur propre interface grâce à un pack de ressources fourni. Les 
 Les objets qui n'existent pas dans ta version sont retirés de la boutique automatiquement.
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques)** : des cosmétiques 3D à acheter avec l'argent gagné au marché
 - **[SnkPass](https://github.com/SnkStudio/SnkPass)** : un pass de saison avec des bons de réduction pour la boutique
 - **[SnkBoutiques](https://github.com/SnkStudio/SnkBoutiques)** : les joueurs ouvrent leurs propres boutiques avec des coffres
 - **[SnkClans](https://github.com/SnkStudio/SnkClans)** : réduction de clan à la boutique, et une part de la taxe va à la banque du clan

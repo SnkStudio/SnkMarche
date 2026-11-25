@@ -88,6 +88,7 @@ Les menus ont leur propre interface grâce à un pack de ressources fourni. Les 
 Les objets qui n'existent pas dans ta version sont retirés de la boutique automatiquement.
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkQuetes](https://github.com/SnkStudio/SnkQuetes)** : des défis de vente et des bons de réduction à gagner
 - **[SnkPNJ](https://github.com/SnkStudio/SnkPNJ)** : un marchand qui ouvre la boutique
 - **[SnkInterface](https://github.com/SnkStudio/SnkInterface)** : la boutique et l'hôtel des ventes dans un menu principal
 - **[SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques)** : des cosmétiques 3D à acheter avec l'argent gagné au marché
